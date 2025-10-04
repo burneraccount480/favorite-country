@@ -1,0 +1,83 @@
+
+
+body{
+  width:100%;
+  margin:0px;
+  font-family: 'Cambria';
+  background-color:#FFDE00;
+}
+#main{
+  border-style:solid;
+}
+.header{
+  margin-top:45px;
+  background-color:turquoise;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+#quote{
+
+  font-size:20px;
+  font-family:"Beba-Nueu";
+  font-style:italic;
+}
+
+#right{
+  float:right;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  font-size:20px;
+  
+}
+
+
+
+.navbar{
+  
+  overflow: hidden;
+  background-color: #FFDE00;
+  position: fixed; 
+  top: 0;
+  width: 100%;
+  margin-left:0px;
+  font-size:21px;
+  
+}
+
+
+.navbar #left {
+  float: left;
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
+.navbar a:hover{
+  background: #ddd;
+  color: black;
+}
+
+.intro {
+  background-color:#FFDE00;
+  margin:0;
+  padding:0
+}
+.intro p{
+  margin:10px
+}
+
+#bottom{
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  font-size:30px;
+
+  background-color:#FFDE00;
+
+}
